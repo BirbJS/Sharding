@@ -11,7 +11,7 @@ Birb.JS is a Discord API wrapper for JavaScript and TypeScript (we include built
 [NPM Page](https://npmjs.com/package/@birbjs/sharding)
 
 ## Installation
-Birb.JS is listed on [npm](https://www.npmjs.com/package/@birbjs/sharding)! You can install it by running `npm install birb --save`.
+Birb.JS is listed on [npm](https://www.npmjs.com/package/@birbjs/sharding)! You can install it by running `npm install @birbjs/sharding --save`.
 
 ## Example
 Your bot's main client file (bot.js):
