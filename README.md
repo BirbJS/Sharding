@@ -1,6 +1,6 @@
 [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
 
-[![NPM](https://nodei.co/npm/birb.png)](https://nodei.co/npm/@birbjs/sharding)
+[![NPM](https://nodei.co/npm/@birbjs/sharding.png)](https://nodei.co/npm/@birbjs/sharding)
 
 # @BirbJS/Sharding
 Birb.JS is a Discord API wrapper for JavaScript and TypeScript (we include built-in type declarations). It’s built to be simple, yet powerful. With just a few lines of code, you can get a Discord bot connected to the Discord API. **Birb.JS is still in development. It is highly recommended you don’t use it until it’s ready.**
