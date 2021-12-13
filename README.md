@@ -30,7 +30,7 @@ client.connect('your_bot_token');
 Your bot's new sharding file (index.js):
 ```js
 const { ShardMaster } = require('@birbjs/sharding');
-const sharder = new ShardMaster({
+const sharder = new ShardMaster('./bot.js', {
     token: 'your_bot_token'
 });
 
